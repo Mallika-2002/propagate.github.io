@@ -74,8 +74,8 @@ marquee {
     height: 20vh;
     margin: 2vh 8vw;
     border-radius: 15px;
-    border:2px solid brown;
-    box-shadow: 2vw 2vh 2vw rgb(36, 35, 35);
+    border:0.1em solid brown;
+    box-shadow: 1vw 1vh 1vw rgb(36, 35, 35);
 
 
 }
@@ -106,8 +106,8 @@ marquee {
     margin: 2vh;
     color: white;
     font-size: 1vw;
-    border:2px solid brown;
-    box-shadow: 2vw 2vh 2vw rgb(36, 35, 35);
+    border:0.1em solid brown;
+    box-shadow: 1vw 1vh 1vw rgb(36, 35, 35);
     width: 20vw;
     height:20vh;
 }
