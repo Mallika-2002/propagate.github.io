@@ -17,7 +17,7 @@ marquee {
     height: 43vh;
     justify-content: center;
     /* border:3em solid pink; */
-/*     background-color:blue; */
+    background-color:brown;
 /*     color:black; */
 
 
@@ -74,8 +74,8 @@ marquee {
     height: 20vh;
     margin: 2vh 8vw;
     border-radius: 15px;
-    border:2px solid blue;
-    box-shadow: 2vw 2vh 3vw rgb(36, 35, 35);
+    border:2px solid brown;
+    box-shadow: 2vw 2vh 2vw rgb(36, 35, 35);
 
 
 }
@@ -106,8 +106,8 @@ marquee {
     margin: 2vh;
     color: white;
     font-size: 1vw;
-    border:2px solid blue;
-    box-shadow: 2vw 2vh 3vw rgb(36, 35, 35);
+    border:2px solid brown;
+    box-shadow: 2vw 2vh 2vw rgb(36, 35, 35);
     width: 20vw;
     height:20vh;
 }
