@@ -104,7 +104,7 @@ marquee {
     padding: 2vw;
     margin: 1vw;
     color: white;
-    font-size: 1.20vw;
+    font-size: 1.25vw;
     border: 0.1em solid brown;
     box-shadow: 1vw 1vh 2vw rgb(36, 35, 35);
     /* box-shadow: 1vw 1vh 0.5vw brown; */
@@ -114,7 +114,7 @@ marquee {
 
 .card a ,h2{
     color: yellow;
-    font-size: 1.30vw;
+    font-size: 1.50vw;
     font-family: 'Roboto Condensed';
 
 }
