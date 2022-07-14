@@ -121,11 +121,12 @@ marquee {
 .container4{
     display:flex;
     justify-content:center;
+    height:10vh;
     /* background-color:rgb(185, 173, 59); */
 
 }
 .container4 img{
-    width:3vw;
+    width:2.5vw;
     height:5vh;
     margin:2vw;
     border-radius:50vw;
