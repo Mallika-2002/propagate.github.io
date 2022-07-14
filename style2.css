@@ -16,19 +16,19 @@ marquee {
     display: flex;
     height: 43vh;
     justify-content: center;
+    align-items: center;
     /* border:3em solid pink; */
-    background-color:brown;
-/*     color:black; */
-
+    /* background-color:#c4e2df; */
+    background-color: brown;
 
 }
 
 .profile {
-    height: 35vh;
+    height: 22vw;
     width: 15vw;
-    border-radius: 35em;
-    position:relative;
-    top:5vh;
+    border-radius: 45em;
+    /* position:relative;
+    top:5vh; */
     /* background-color:#9df9ef; */
 
 }
@@ -38,15 +38,13 @@ marquee {
     font-size: 5vw;
     font-weight: bolder;
     text-align: center;
-    position: relative;
-    left: 8vw;
-    top: 5vh;
-    text-shadow:1vw 1vh 0.8vw rgb(36, 35, 35);
 
-
-
-
-}.inside{
+    margin: 1em;
+    box-sizing: border-box;
+    /* color:black; */
+    text-shadow: 1vw 1vh 1vw rgb(36, 35, 35);
+}
+.inside{
     font-size:1.25vw;
 }
 
@@ -71,7 +69,7 @@ marquee {
 .image {
     box-sizing: border-box;
     width: 10vw;
-    height: 20vh;
+    height: 10vw;
     margin: 2vh 8vw;
     border-radius: 15px;
     border:0.1em solid brown;
@@ -102,14 +100,15 @@ marquee {
 
 .card {
     background-color: rgba(7, 7, 7, 0.897);
-    padding: 3vh;
-    margin: 2vh;
+    padding: 2vw;
+    margin: 2vw;
     color: white;
-    font-size: 1vw;
+    font-size: 1.25vw;
     border:0.1em solid brown;
     box-shadow: 1vw 1vh 2vw rgb(36, 35, 35);
-    width: 20vw;
-    height:20vh;
+    /* box-shadow: 1vw 1vh 0.5vw brown; */
+    width: 18vw;
+    height:13vw;
 }
 
 .card a {
@@ -127,7 +126,7 @@ marquee {
 }
 .container4 img{
     width:2.5vw;
-    height:5vh;
+    height:3vw;
     margin:2vw;
     border-radius:50vw;
 }
