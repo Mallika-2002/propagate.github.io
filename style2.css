@@ -17,8 +17,8 @@ marquee {
     height: 43vh;
     justify-content: center;
     /* border:3em solid pink; */
-    background-color:#c4e2df;
-    color:blue;
+    background-color:blue;
+    color:black;
 
 
 }
@@ -41,7 +41,7 @@ marquee {
     position: relative;
     left: 8vw;
     top: 5vh;
-    text-shadow:1vw 1vh 2vw rgb(36, 35, 35);
+    text-shadow:1vw 1vh 0.8vw rgb(36, 35, 35);
 
 
 
