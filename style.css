@@ -96,7 +96,7 @@ marquee {
     font-size: 250%;
     font-family: 'Roboto Condensed';
     position: relative;
-    top: 50vh;
+    top: 40vh;
     font-weight: bolder;
     /* background-color: rgba(7, 7, 7, 0.897); */
     /* box-shadow: 2vw 2vh 3vw rgb(36, 35, 35); */
@@ -116,14 +116,14 @@ marquee {
     padding: 3vh;
     margin: 2vh;
     color: white;
-    font-size: 150%;
+    font-size: 120%;
     box-shadow: 2vw 2vh 3vw rgb(36, 35, 35);
     width: 25vw;
 }
 
 .card a {
     color: yellow;
-    font-size: 150%;
+    font-size: 125%;
     font-family: 'Roboto Condensed';
 
 }
