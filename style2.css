@@ -1,7 +1,7 @@
 body {
     background-color: black;
     color: white;
-    border:4em solid black;
+    border:0.5em solid black;
     border-radius:2em;
 
 }
@@ -63,7 +63,7 @@ marquee {
 .line2 {
     display: flex;
     justify-content: center;
-    height:11vw;
+/*     height:11vw; */
     /* background-color:#9df9ef; */
 
 }
@@ -104,17 +104,17 @@ marquee {
     padding: 2vw;
     margin: 2vw;
     color: white;
-    font-size: 1.25vw;
-    border:0.1em solid brown;
+    font-size: 1vw;
+    border: 0.1em solid brown;
     box-shadow: 1vw 1vh 2vw rgb(36, 35, 35);
     /* box-shadow: 1vw 1vh 0.5vw brown; */
     width: 18vw;
-    height:13vw;
+    height: 13vw;
 }
 
-.card a {
+.card a ,h2{
     color: yellow;
-    font-size: 1vw;
+    font-size: 1.5vw;
     font-family: 'Roboto Condensed';
 
 }
@@ -129,5 +129,6 @@ marquee {
     width:2.5vw;
     height:3vw;
     margin:2vw;
+    box-sizing:border-box;
     border-radius:50vw;
 }
