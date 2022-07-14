@@ -14,7 +14,7 @@ marquee {
 
 .container1 {
     display: flex;
-    height: 43vh;
+    height: 20vw;
     justify-content: center;
     align-items: center;
     /* border:3em solid pink; */
@@ -24,7 +24,7 @@ marquee {
 }
 
 .profile {
-    height: 22vw;
+    height: 18vw;
     width: 15vw;
     border-radius: 45em;
     /* position:relative;
@@ -63,6 +63,7 @@ marquee {
 .line2 {
     display: flex;
     justify-content: center;
+    height:11vw;
     /* background-color:#9df9ef; */
 
 }
