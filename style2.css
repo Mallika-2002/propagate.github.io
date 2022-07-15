@@ -116,7 +116,11 @@ marquee {
     color: yellow;
     font-size: 1.75vw;
     font-family: 'Roboto Condensed';
+    text-decoration:none;
 
+}
+.card a:hover{
+    font-size:2vw;
 }
 .container4{
     display:flex;
@@ -132,3 +136,6 @@ marquee {
     box-sizing:border-box;
     border-radius:50vw;
 }
+.container4 img:hover{
+    width:3vw;
+    height:3.25vw;}
